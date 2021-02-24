@@ -8,11 +8,14 @@
 </head>
 <body>
 <h1>
-   hello <?php echo $_GET['text']?>
+   hello <?php echo $_GET['word']?>
 </h1>
 <h2>
-    <?php echo $_GET['nome']?>
+   <?php echo $_GET['newword']?>
 </h2>
+<h3>
+  <?php echo $_GET['length']?>
+</h3>
 
 <!-- <?php var_dump($_GET); ?> -->
 
