@@ -10,6 +10,9 @@
 <h1>
    hello <?php echo $_GET['text']?>
 </h1>
+<h2>
+    <?php echo $_GET['nome']?>
+</h2>
 
 <!-- <?php var_dump($_GET); ?> -->
 
