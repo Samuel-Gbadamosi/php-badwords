@@ -13,7 +13,7 @@ Visualizzare a schermo il paragrafo con la relativa lunghezza e sostituire la ba
   <title>Document</title>
 </head>
 <body>
-  <h1> hello john <?php echo $text ?></h1>
+  <h1>  <?php echo $text ?></h1>
 
 
 </body>
